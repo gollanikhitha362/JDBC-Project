@@ -1,1 +1,1 @@
-# PROJECT-1: Student Management System_JDBC,JSP,Servlet
+Student Management System_JDBC,Servlet,JSP
